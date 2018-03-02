@@ -1,0 +1,18 @@
+/* PUT FLUID GRID CODE HERE */
+* {
+  box-sizing: border-box;
+}
+
+
+
+.side {
+  float: left;
+  width: 20%;
+  padding-right: 20px;
+}
+
+
+.main {
+  float: left;
+  /* width: 70%; */
+}

@@ -1,0 +1,9 @@
+*	/Users/appacademy/Desktop/w3d4/skeleton 5/assets/custom_grid.css	/^* {$/;"	function	line:2
+.side	/Users/appacademy/Desktop/w3d4/skeleton 5/assets/custom_grid.css	/^.side {$/;"	function	line:8
+.main	/Users/appacademy/Desktop/w3d4/skeleton 5/assets/custom_grid.css	/^.main {$/;"	function	line:15
+html, body, div, span, h1, h2, h3, h4, a, ol, ul, li, form, label, article, aside, figure, figcaption, footer, header, nav	/Users/appacademy/Desktop/w3d4/skeleton 5/assets/css_custom_reset.css	/^html, body, div, span, h1, h2, h3, h4, a, ol, ul, li, form, label, article, aside, figure, figcaption, footer, header, nav {$/;"	function	line:1
+figure img	/Users/appacademy/Desktop/w3d4/skeleton 5/assets/css_custom_reset.css	/^figure img {$/;"	function	line:10
+body	/Users/appacademy/Desktop/w3d4/skeleton 5/assets/css_custom_reset.css	/^body {$/;"	function	line:17
+ol, ul	/Users/appacademy/Desktop/w3d4/skeleton 5/assets/css_custom_reset.css	/^ol, ul {$/;"	function	line:21
+input[type="radio"], select, input[type="submit"]	/Users/appacademy/Desktop/w3d4/skeleton 5/assets/css_custom_reset.css	/^input[type="radio"], select, input[type="submit"] {$/;"	function	line:25
+h2 + .user_review	/Users/appacademy/Desktop/w3d4/skeleton 5/assets/css_custom_reset.css	/^h2 + .user_review {$/;"	function	line:30
